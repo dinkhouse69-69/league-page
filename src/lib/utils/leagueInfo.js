@@ -7,12 +7,10 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>A long, long time ago, in 2011, a band of brothers came together, determined to find an outlet that overshadowed their glaring lack of athleticism. Forged in the chatrooms and WebSphere, they created a league of epic proportions. Matchups were won and lost. Numbers were crunched and ignored. Reason and rationale fell long to the wayside…</p>
+  <p>Some were deemed unworthy as time passed and ultimately cast aside (i.e., don’t draft Randy Moss post-retirement). Others – arguably with what should have been criminal records – found themselves similarly excommunicated. As the smoke settled and the band migrated (from ESPN to Sleeper), ten brave soldiers remained.</p>
+  <p>Today, we brothers find ourselves under the rule of a miser. A foe so ferocious, anatomically gifted, and borderline legally blind. As the 2023 season draws near, I ask you, my brothers, whomst among us has the courage to dethrone that which is Clark? Together we embark on this journey, a cohesive Crew League, with the goal of taking the trophy out of Malone.</p>
+  <p>Cheers, boys, and welcome to 2023!</p>
 `;
 
 /*   STEP 3   */
